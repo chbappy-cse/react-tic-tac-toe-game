@@ -10,8 +10,6 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-tic-tac-toe-game
-
 
 
 # React Tic Tac Toe Game 🎮
@@ -30,7 +28,7 @@ A classic Tic Tac Toe (XO) game built using **React.js** and **Tailwind CSS**.
 
 ## 🖥️ Demo
 
-> [Live Demo Link](https://your-username.github.io/react-tic-tac-toe-game)  
+> [Live Demo Link](https://chbappy-cse.github.io/react-tic-tac-toe-game)  
 *(Replace with actual link after deploying to GitHub Pages or Vercel)*
 
 ---
@@ -38,7 +36,7 @@ A classic Tic Tac Toe (XO) game built using **React.js** and **Tailwind CSS**.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/react-tic-tac-toe-game.git
+git clone https://github.com/chbappy-cse/react-tic-tac-toe-game.git
 cd react-tic-tac-toe-game
 npm install
 npm run dev # or npm start
